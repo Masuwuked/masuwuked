@@ -23,7 +23,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masuwuked&show_icons=true&locale=en&layout=compact" alt="masuwuked" /></p>
 
 <br>
-  <h1 align="center">Get in touch in with me 📮</h1><br><p align="left">
+  <h1 align="center">Get in touch in with me 📮</h1><br><p align="center">
 <a href="https://twitter.com/masuwuked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masuwuked" height="30" width="40" /></a>
 <a href="https://instagram.com/masuwuked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masuwuked" height="30" width="40" /></a>
 </p>
