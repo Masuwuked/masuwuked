@@ -23,8 +23,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masuwuked&show_icons=true&locale=en&layout=compact" alt="masuwuked" /></p>
 
 <br>
-  <h1 align="center">Get in touch in with me 📮</h1><br><p align="center">
-   <p><a href="https://www.instagram.com/masuwuked/" target="_blank"><img src="https://raw.githubusercontent.com/uditkumar489/Icon-pack/44e9bfd92c879c063dadb83851aef6b347ea0ce8/Social%20media/Die%20cut%20-%20transparent/svg/029-instagram.svg" height="60" width="60"></a></p>
-   <p><a href="https://twitter.com/masuwuked" target="_blank"><img src="https://raw.githubusercontent.com/uditkumar489/Icon-pack/44e9bfd92c879c063dadb83851aef6b347ea0ce8/Social%20media/Flat%20-%20circular/svg/twitter.svg" height="60" width="60"></a></p>
-   <p><a href="https://mail.google.com/mail/?view=cm&fs=1&to=arnavsaini117@gmail.com&su=SUBJECT&body=BODY&bcc=arnavsaini117@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="60" width="60"></a></p>
+  <h1 align="center">Get in touch in with me 📮</h1><br><p align="left">
+<a href="https://twitter.com/masuwuked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masuwuked" height="30" width="40" /></a>
+<a href="https://instagram.com/masuwuked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masuwuked" height="30" width="40" /></a>
 </p>
