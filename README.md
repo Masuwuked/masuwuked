@@ -6,10 +6,14 @@
 *Rust<br>
 *Javascript
 <h3>My skills</h3>
--HTML/CSS
-*C
-*C#
+-HTML/CSS<br>
+*C<br>
+*C#<br>
 *Linux/Bash
+<h2>Other Hobbies</h2>
+  -Video Editing
+  +Playing Video Games
+  *Watching movies
 </p>
 
 <!--
