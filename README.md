@@ -25,22 +25,5 @@
    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arnavsaini117@gmail.com&su=SUBJECT&body=BODY&bcc=arnavsaini117@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="60" width="60"></a>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masuwuked&show_icons=true&locale=en" alt="masuwuked" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masuwuked&show_icons=true&locale=en&layout=compact" alt="masuwuked" /></p>
