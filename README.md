@@ -3,13 +3,13 @@
 
 <p>
 <h3>Currently learing</h3>
--Rust
--Javascript
+*Rust
+*Javascript
 <h3>My skills</h3>
 -HTML/CSS
--C
--C#
--Linux/Bash
+*C
+*C#
+*Linux/Bash
 </p>
 
 <!--
