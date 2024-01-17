@@ -3,7 +3,7 @@
 
 <p>
 <h3>Currently learing</h3>
-*Rust
+*Rust<br>
 *Javascript
 <h3>My skills</h3>
 -HTML/CSS
