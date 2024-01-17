@@ -3,16 +3,16 @@
 
 
 <h3>Currently learing 🔖</h3>
-  * Rust<br>
-  * Javascript
+  - Rust<br>
+  - Javascript
 <h3>My skills 💼</h3>
 -HTML/CSS<br>
   * C<br>
   * C#<br>
   * Linux/Bash
 <h2> Hobbies 🎸</h2>
-  - Video Editing<br>
-  + Playing Video Games<br>
+  * Video Editing<br>
+  * Playing Video Games<br>
   * Listening to Music
   <h2>Languages and Tools im comfortable working with</h2><br>
 
