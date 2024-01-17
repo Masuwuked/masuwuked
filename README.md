@@ -14,11 +14,17 @@
   - Video Editing<br>
   + Playing Video Games<br>
   * Listening to Music
+  <h2>Languages and Tools im comfortable working with</h2>
 
+
+
+  
  <h2>Open to collabortation on projects</h2>
   Get in touch in with me :D
-   -[Instagram](https://www.instagram.com/masuwuked/)
+   -<a href="https://www.instagram.com/masuwuked/">Instagram</a>
+   
    -
+
 
 <!--
 **Masuwuked/masuwuked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
