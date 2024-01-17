@@ -23,9 +23,9 @@
   
  <h2>Open to collabortation on projects</h2>
   Get in touch in with me :D<br>
-   -<a href="https://www.instagram.com/masuwuked/">Instagram</a><br>
+   -<a href="https://www.instagram.com/masuwuked/">Instagram</a>
    
-   -<
+   -<a href="https://twitter.com/masuwuked">X</a><br>
 
 
 
