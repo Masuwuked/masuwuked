@@ -33,7 +33,7 @@
   <h1 align="center">Get in touch in with me 📮</h1><br><p align="center">
    <a href="https://www.instagram.com/masuwuked/"><img src="https://raw.githubusercontent.com/uditkumar489/Icon-pack/44e9bfd92c879c063dadb83851aef6b347ea0ce8/Social%20media/Die%20cut%20-%20transparent/svg/029-instagram.svg" height="60" width="60"></a>
    <a href="https://twitter.com/masuwuked"><img src="https://raw.githubusercontent.com/uditkumar489/Icon-pack/44e9bfd92c879c063dadb83851aef6b347ea0ce8/Social%20media/Flat%20-%20circular/svg/twitter.svg" height="60" width="60"></a>
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arnavsaini117@gmail.com&su=SUBJECT&body=BODY&bcc=arnavsaini117@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arnavsaini117@gmail.com&su=SUBJECT&body=BODY&bcc=arnavsaini117@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"></a>
 </p>
 
 
