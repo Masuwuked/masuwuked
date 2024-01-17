@@ -1,5 +1,5 @@
 <h1 align="center"> Well Hello There!</h1>
-<h3 align="center">A passionate dev.</h3>
+<h3 align="center">A passionate dev who is Open to collabortation on projects</h3>
 
 
 <h3>Currently learing</h3>
@@ -21,7 +21,7 @@
 
 
   
- <h2>Open to collabortation on projects</h2>
+
   Get in touch in with me :D<br>
    -<a href="https://www.instagram.com/masuwuked/"><img src="https://raw.githubusercontent.com/uditkumar489/Icon-pack/44e9bfd92c879c063dadb83851aef6b347ea0ce8/Social%20media/Die%20cut%20-%20transparent/svg/029-instagram.svg" height="60" width="60"></a>
    
