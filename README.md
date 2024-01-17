@@ -3,17 +3,20 @@
 
 
 <h3>Currently learing</h3>
-  *Rust**<br>
-  *Javascript**
+  * Rust**<br>
+  * Javascript**
 <h3>My skills</h3>
 -HTML/CSS<br>
-  *C<br>
-  *C#<br>
-  *Linux/Bash
-<h2>Other Hobbies</h2>
-  -Video Editing<br>
-  +Playing Video Games<br>
-  *Watching movies
+  * C<br>
+  * C#<br>
+  * Linux/Bash
+<h2> Hobbies</h2>
+  - Video Editing<br>
+  + Playing Video Games<br>
+  * Listening to Music
+
+ <h2>Open to collabortation on projects</h2>
+  Get in touch in with me
 
 <!--
 **Masuwuked/masuwuked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
