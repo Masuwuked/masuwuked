@@ -1,4 +1,16 @@
-### Well Hello There!
+<h1 align="center"> Well Hello There!</h1>
+<h3 align="center">A passionate dev.</h3>
+
+<p>
+<h3>Currently learing</h3>
+-Rust
+-Javascript
+<h3>My skills</h3>
+-HTML/CSS
+-C
+-C#
+-Linux/Bash
+</p>
 
 <!--
 **Masuwuked/masuwuked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
