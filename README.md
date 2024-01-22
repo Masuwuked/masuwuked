@@ -1,5 +1,5 @@
 <h1 align="center"> Well Hello There!👋</h1>
-<h3 align="center">A passionate dev who is Open to collabortation on projects</h3>
+<h3 align="center">I am a passionate dev who is Open to collabortation on projects</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masuwuked" alt="masuwuked" /></a> </p><br>
 <h3>Currently learing 🔖</h3>
