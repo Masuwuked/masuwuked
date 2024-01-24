@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masuwuked" alt="masuwuked" /></a> </p><br>
 <h3>Currently learing 🔖</h3>
-  - Rust<br>
+  - kotlin<br>
   - Javascript
 <h3>My skills 💼</h3>
 -HTML/CSS<br>
