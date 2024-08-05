@@ -3,12 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masuwuked" alt="masuwuked" /></a> </p><br>
 <h3>Currently learing 🔖</h3>
-  - kotlin<br>
+ 
   - Javascript
 <h3>My skills 💼</h3>
 -HTML/CSS<br>
   * C<br>
   * C#<br>
+  * kotlin<br>
   * Linux/Bash
 <h2> Hobbies 🎸</h2>
   * Video Editing<br>
