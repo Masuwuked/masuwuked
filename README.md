@@ -1,7 +1,7 @@
 <h1 align="center"> Well Hello There!👋</h1>
 <h3 align="center">I am a passionate dev who is Open to collabortation on projects</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masuwuked" alt="masuwuked" /></a> </p><br>
+<br>
 <h3> I am a collage student who is enthusiastic about Cybersecurity and Scripting. I have taken part in a few CTF competitions held within my university. </h3>
 <h3>My skills 💼</h3>
   * Basic Webdevlopment<br>
