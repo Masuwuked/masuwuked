@@ -19,7 +19,8 @@ I've participated in several **CTF competitions** held at my university.
 - Basic Web Development  
 - C  
 - C#  
-- Python  
+- Python
+- Godot Engine
 - Linux / Unix  
 
 ---
