@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate developer open to collaborating on interesting projects!</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" alt="GitHub Trophy" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=masuwuked)](https://github.com/masuwuked/github-profile-trophy)
 </div>
 
 ---
