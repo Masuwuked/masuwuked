@@ -2,9 +2,6 @@
 
 <h3 align="center">I'm a passionate developer open to collaborating on interesting projects!</h3>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub">
-</div>
 
 ---
 
