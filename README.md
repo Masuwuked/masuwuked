@@ -31,16 +31,5 @@ I've participated in several **CTF competitions** held at my university.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masuwuked&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=masuwuked&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-</div>
-
----
-
-<h2 align="center">📮 Get in Touch</h2>
 
 
